@@ -1,1 +1,1 @@
-# mozo-agency-design
+# mozo
