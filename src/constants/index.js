@@ -205,7 +205,7 @@ import {
       id: "0",
       title: "Basic",
       description: "This package Cannot be customized",
-      price: "$100",
+      price: "100",
       features: [
         "Social Media Content Creation",
         "Social Media Marketing and Growth",
@@ -215,8 +215,8 @@ import {
     {
       id: "1",
       title: "Premium",
-      description: "This Pacakeg can be customized on Negotiation",
-      price: "$175",
+      description: "This Package can be customized on Negotiation",
+      price: "175",
       features: [
         "Content Creation",
         "Social Media Management & Growth with Email Marketing",
