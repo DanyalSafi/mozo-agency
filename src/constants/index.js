@@ -63,14 +63,14 @@ import {
     },
     {
       id: "4",
-      title: "New account",
-      url: "#signup",
+      title: "Contact on Whatsapp",
+      url: "https://wa.link/s00cmy",
       onlyMobile: true,
     },
     {
       id: "5",
-      title: "Sign in",
-      url: "#login",
+      title: "Mail Us",
+      url: "mailto:brandcrafter35@gmail.com",
       onlyMobile: true,
     },
   ];
