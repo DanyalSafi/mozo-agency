@@ -37,7 +37,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block  w-[12rem] xl:mr-8" href="#hero">
-          <img src={brainwave} width={80} height={30} alt="BrandCrafter" />
+          <img src={brainwave} width={80} height={30} alt="MozoDesignAgency" />
         </a>
 
         <nav
@@ -68,7 +68,7 @@ const Header = () => {
         </nav>
 
         <a
-          href="mailto:brandcrafter35@gmail.com" target="_blank"
+          href="mailto:mozodesignagency@gmail.com" target="_blank"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Mail Us

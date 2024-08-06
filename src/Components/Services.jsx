@@ -32,23 +32,24 @@ const Services = () => {
               />
             </div>
 
-            <div className="relative z-1 max-w-[17rem] ml-auto">
-              <h4 className="h4 mb-4">Branding</h4>
-              <p className="body-2 mb-[3rem] text-n-3">
-                We at MOZO Agency Make your Brand Stand Out With
-              </p>
-              <ul className="body-2">
-                {brainwaveServices.map((item, index) => (
-                  <li
-                    key={index}
-                    className="flex items-start py-4 border-t border-n-6"
-                  >
-                    <img width={24} height={24} src={check} />
-                    <p className="ml-4">{item}</p>
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <div className="relative z-1 max-w-[17rem] ml-auto bg-n-6 bg-opacity-60 sm:bg-opacity-0 p-4 sm:p-0">
+  <h4 className="h4 mb-4">Branding</h4>
+  <p className="body-2 mb-[3rem] text-n-3">
+    We at MOZO Agency Make your Brand Stand Out With
+  </p>
+  <ul className="body-2">
+    {brainwaveServices.map((item, index) => (
+      <li
+        key={index}
+        className="flex items-start py-4 border-t border-n-6 sm:bg-opacity-1"
+      >
+        <img width={24} height={24} src={check} />
+        <p className="ml-4">{item}</p>
+      </li>
+    ))}
+  </ul>
+</div>
+
 
             <Generating className="absolute left-4 right-4 bottom-4 border-n-1/10 border lg:left-1/2 lg-right-auto lg:bottom-8 lg:-translate-x-1/2" />
           </div>
@@ -68,7 +69,7 @@ const Services = () => {
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
                 <h4 className="h4 mb-4">3D Modelling</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                We at MOZO provide you with 3d animation  and modeling as a bonus service
+                We at MOZO provide you with 3d Animation  and Modeling as a bonus service
                 </p>
               </div>
 
@@ -79,7 +80,7 @@ const Services = () => {
               <div className="py-12 px-4 xl:px-8">
                 <h4 className="h4 mb-4">Futuristic Animated Website</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  We at MOZO show you the future of website with the futuristic websites with animations.
+                  We at MOZO show you the future of website with the Futuristic websites with Animations.
                 </p>
 
                 <ul className="flex items-center justify-between">

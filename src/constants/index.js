@@ -64,13 +64,13 @@ import {
     {
       id: "4",
       title: "Contact on Whatsapp",
-      url: "https://wa.link/s00cmy",
+      url: "https://wa.link/rqf6l9",
       onlyMobile: true,
     },
     {
       id: "5",
       title: "Mail Us",
-      url: "mailto:brandcrafter35@gmail.com",
+      url: "mailto:mozodesignagency@gmail.com",
       onlyMobile: true,
     },
   ];
@@ -99,26 +99,26 @@ import {
     {
       id: "0",
       title: "React ",
-      text: "We at MOZO provide you with React.Js framework.",
+      text: "We at MOZO provide you with React.js framework.",
       imageUrl: roadmap1,
       colorful: true,
     },
     {
       id: "1",
       title: "Mern Stack",
-      text: "We At MOZO Provide you with Mern Full Stack at efficient Costs.",
+      text: "We at MOZO Provide you with Mern Full Stack at efficient Costs.",
       imageUrl: roadmap2,
     },
     {
       id: "2",
       title: "PHP BackEnd",
-      text: "We at MOZO agency provide Backend with PHP.",
+      text: "We at MOZO Agency provide Backend with PHP.",
       imageUrl: roadmap3,
     },
     {
       id: "3",
       title: "HTML/CSS",
-      text: "We At MOZO design agency provide user friendly designs in frotnend with HTML/CSS.",
+      text: "We At MOZO Design Agency provide user friendly designs in frontend with HTML/CSS.",
       imageUrl: roadmap4,
     },
   ];
@@ -252,7 +252,7 @@ import {
     {
       id: "1",
       title: "Website Development",
-      text: "In web development, we start by understanding clientscobjectives and target audience. Our skilled team designs and developsuser-friendly, visually appealing websites using HTML, CSS, and JavaScript. Weensure responsiveness across devices and optimize for speed and SEO. Rigoroustesting and client feedback guarantee.",
+      text: "In web development, we start by understanding clients objectives and target audience. Our skilled team designs and develops user-friendly, visually appealing websites using HTML, CSS, and JavaScript. We ensure responsiveness across devices and optimize for speed and SEO. Rigorous, testing and client feedback guarantee.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
@@ -277,8 +277,8 @@ import {
     },
     {
       id: "4",
-      title: "Product Photography and VideoGraphy",
-      text: "Product photography and videography services are dedicated to capturing the essence and quality of your products in a visually compelling manner. We specialize in creating high-resolution images and professional videos that showcase your products' features, benefits, and unique selling points. ",
+      title: "Product Photography and Videography",
+      text: "Product photography and videography services are dedicated to capturing the essence and quality of your products in a visually compelling manner. We specialize in creating high-resolution images and professional videos that showcase your products features, benefits, and unique selling points. ",
       backgroundUrl: "./src/assets/benefits/card-5.svg",
       iconUrl: benefitIcon1,
       imageUrl: benefitImage2,
@@ -286,7 +286,7 @@ import {
     {
       id: "5",
       title: "Content Writing",
-      text: "Our content writing services offer customized solutions tailored to ourclients’ needs. We start by understanding their goals, audience, and industry.Our skilled writers craft compelling, informative, and engaging content,including blog posts, articles, website copy, and social media content. Eachpiece is meticulously researched, creatively written.",
+      text: "Our content writing services offer customized solutions tailored to our clients needs. We start by understanding their goals, audience, and industry. Our skilled writers craft compelling, informative, and engaging content, including blog posts, articles, website copy, and social media content. Each piece is meticulously researched, creatively written.",
       backgroundUrl: "./src/assets/benefits/card-6.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
@@ -294,12 +294,12 @@ import {
   ];
   
   export const socials = [
-    // {
-    //   id: "0",
-    //   title: "Discord",
-    //   iconUrl: discordBlack,
-    //   url: "#",
-    // },
+    {
+      id: "0",
+      title: "Discord",
+      iconUrl: discordBlack,
+      url: "https://www.linkedin.com/company/mozodesignagency/",
+    },
     // {
     //   id: "1",
     //   title: "Twitter",

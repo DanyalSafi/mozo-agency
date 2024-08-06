@@ -85,12 +85,7 @@ import b17 from "../assets/projects/branding/b17.png"
 import b18 from "../assets/projects/branding/b18.jpg"
 import b19 from "../assets/projects/branding/b19.jpg"
 import b20 from "../assets/projects/branding/b20.jpg"
-import b21 from "../assets/projects/branding/b21.jpg"
-import b22 from "../assets/projects/branding/b22.jpg"
 import b23 from "../assets/projects/branding/b23.png"
-import b24 from "../assets/projects/branding/b24.png"
-import b25 from "../assets/projects/branding/b26.png"
-import b26 from "../assets/projects/branding/b27.jpg"
 import b27 from "../assets/projects/branding/b28.jpg"
 import b28 from "../assets/projects/branding/b29.png"
 import b29 from "../assets/projects/branding/b30.png"
@@ -629,18 +624,8 @@ export const projects = [
         category:"Branding",
         
       },
-      {
-        id:29,
-        image: b21,
-        category:"Branding",
-        
-      },
-      {
-        id:29,
-        image: b22,
-        category:"Branding",
-        
-      },
+     
+      
       {
         id:29,
         image: b23,
@@ -648,24 +633,9 @@ export const projects = [
         
       },
       
-      {
-        id:29,
-        image: b24,
-        category:"Branding",
-        
-      },
-      {
-        id:29,
-        image: b25,
-        category:"Branding",
-        
-      },
-      {
-        id:29,
-        image: b26,
-        category:"Branding",
-        
-      },
+      
+      
+      
       {
         id:29,
         image: b27,
@@ -697,82 +667,5 @@ export const projects = [
   
 
 
-export const experience = [
-    {
-        title:"UI/UX",
-        data:[
-            {
-                skill:"Figma",
-                level:"Experienced",
-            },
-            {
-                skill:"Sketch",
-                level:"Intermediate",
-            },
-            {
-                skill:"XD",
-                level:"Intermediate",
-            },
-        ]
-    },
-    {
-        title:"Frontend Development",
-        data:[
-            {
-                skill:"HTML",
-                level:"Experienced",
-            },
-            {
-                skill:"CSS",
-                level:"Experienced",
-            },
-            {
-                skill:"JavaScript",
-                level:"Experienced",
-            },
-            {
-                skill:"Tailwind",
-                level:"Intermediate",
-            },
-            {
-                skill:"Bootstrap",
-                level:"Experienced",
-            },
-            {
-                skill:"React",
-                level:"Experienced",
-            },
-            {
-                skill:"React Native",
-                level:"Experienced",
-            },
-        ]
-    },
-    {
-        title:"Backend Development",
-        data:[
-            {
-                skill:"Node JS",
-                level:"Experienced",
-            },
-            {
-                skill:"MangoDB",
-                level:"Intermediate",
-            },
-            {
-                skill:"PHP",
-                level:"Experienced",
-            },
-            {
-                skill:"Python",
-                level:"Intermediate",
-            },
-            {
-                skill:"MySQL",
-                level:"Experienced",
-            },
-        ]
-    },
-]
 
 

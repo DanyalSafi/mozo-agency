@@ -29,10 +29,10 @@ const PricingList = () => {
 
           <Button
             className="w-full mb-6"
-            href={item.price ? "/pricing" : "mailto:brandcrafter35@gmail.com"}
+            href={item.price ? "mailto:mozodesignagency@gmail.com" : "mailto:mozodesignagency@gmail.com"}
             white={!!item.price}
           >
-            {item.price ? "Get started" : "Contact us"}
+            {item.price ? "Contact US" : "Contact US"}
           </Button>
 
           <ul>

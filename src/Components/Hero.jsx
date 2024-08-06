@@ -21,14 +21,14 @@ const Hero = () => {
       id="hero"
     >
       <div className="container relative" ref={parallaxRef}>
-        <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
-          <h1 className="h1 mb-6">
+        <div className="relative z-1 max-w-[50rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem] ">
+          <h1 className="h1 mb-6 max-w[20px] text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
             Explore the Possibilities of&nbsp;Digital&nbsp;Marketing with {` `}
             <span className="inline-block relative">
               Mozo Agency{" "}
               <img
                 src={curve}
-                className="absolute top-full left-0 w-full xl:-mt-2"
+                className="absolute top-full left-0 w-full xl:-mt-1"
                 width={624}
                 height={28}
                 alt="Curve"
@@ -36,9 +36,9 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          Unleash the power of Digital marketing with us. We give you what you want with ease and talent. So count on us to bring you in the market.
+            Unleash the power of Digital marketing with us. We give you what you want with ease and talent. So count on us to bring you in the market.
           </p>
-          <Button href="mailto:brandcrafter35@gmail.com" white>
+          <Button href="https://wa.link/rqf6l9" white>
             Get started
           </Button>
         </div>
