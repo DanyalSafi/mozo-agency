@@ -34,6 +34,12 @@ import app2 from "../assets/projects/Apps/2.png"
 import app3 from "../assets/projects/Apps/3.png"
 import app4 from "../assets/projects/Apps/4.png"
 import app5 from "../assets/projects/Apps/5.png"
+import app6 from "../assets/projects/Apps/6.jpg"
+import app7 from "../assets/projects/Apps/7.jpg"
+import app8 from "../assets/projects/Apps/8.jpg"
+import app9 from "../assets/projects/Apps/9.jpg"
+
+
 import web1 from "../assets/projects/web/1.jpeg"
 import web2 from "../assets/projects/web/2.png"
 import web3 from "../assets/projects/web/3.jpeg"
@@ -194,6 +200,12 @@ export const projects = [
       
     },
     {
+      id:28,
+      image: app6,
+      category:"App Design",
+      
+    },
+    {
       id:29,
       image: b3,
       category:"Branding",
@@ -233,6 +245,12 @@ export const projects = [
         id:29,
         image: b30,
         category:"Branding",
+        
+      },
+      {
+        id:28,
+        image: app7,
+        category:"App Design",
         
       },
      
@@ -285,6 +303,12 @@ export const projects = [
         
       },
       {
+        id:28,
+        image: app8,
+        category:"App Design",
+        
+      },
+      {
         id:25,
         image: app2,
         category:"App Design",
@@ -311,7 +335,12 @@ export const projects = [
       },
 
 
-
+      {
+        id:28,
+        image: app9,
+        category:"App Design",
+        
+      },
       {
         id:20,
         image: social12,

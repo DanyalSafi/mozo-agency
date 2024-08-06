@@ -204,7 +204,7 @@ import {
     {
       id: "0",
       title: "Basic",
-      description: "This package Cannot be customized",
+      description: "This Package cannot be customized",
       price: "100",
       features: [
         "Social Media Content Creation",
