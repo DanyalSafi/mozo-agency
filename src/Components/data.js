@@ -38,6 +38,8 @@ import app6 from "../assets/projects/Apps/6.jpg"
 import app7 from "../assets/projects/Apps/7.jpg"
 import app8 from "../assets/projects/Apps/8.jpg"
 import app9 from "../assets/projects/Apps/9.jpg"
+import app10 from "../assets/projects/Apps/10.png"
+
 
 
 import web1 from "../assets/projects/web/1.jpeg"
@@ -172,7 +174,7 @@ export const projects = [
       id:5,
       
       image: animation4,
-        category:"3D Animation",
+      category:"3D Animation",
       
     },
     {
@@ -241,6 +243,12 @@ export const projects = [
         category:"Branding",
         
       },
+       {
+      id:28,
+      image: app10,
+      category:"App Design",
+      
+    },
       {
         id:29,
         image: b30,
